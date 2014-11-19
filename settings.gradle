@@ -1,4 +1,1 @@
-
-
-
-include 'StorageProviderSample'
+include 'Application'
