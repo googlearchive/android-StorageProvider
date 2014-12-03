@@ -11,6 +11,6 @@ solutions:    [Mobile]
 github:       android-MyCloud
 level:        INTERMEDIATE
 icon:         screenshots/icon-web.png
-api_refs:
+apiRefs:
     - android:android.provider.DocumentsProvider
 license: apache2
