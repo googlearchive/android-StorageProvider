@@ -1,15 +1,32 @@
 Android MyCloud Sample
-==============================
+===================================
 
-\nA simple implementation of a documents provider using the storage access framework in
-Android 4.4.
+This sample shows how to implement a simple documents provider using the storage access
+        framework available in Android 4.4.
+
+Introduction
+------------
+
+This sample uses the [StorageAccessFramework][1] introduced in Android 4.4 to implement a [DocumentsProvider][2].
+
+        See [Writing A Custom Document Provider guide][3] for all the details on how to do this.
+
+
+        [1]: https://developer.android.com/guide/topics/providers/document-provider.html
+        [2]: https://developer.android.com/reference/android/provider/DocumentsProvider.html
+        [3]: https://developer.android.com/guide/topics/providers/document-provider.html#custom
 
 Pre-requisites
 --------------
 
-- Android SDK v20
-- Android Build Tools v20
+- Android SDK v21
+- Android Build Tools v21.1.1
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src=screenshots/1-logged-out.png height="400" alt="Screenshot"/> <img src=screenshots/2-logged-in.png height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
@@ -41,7 +58,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
