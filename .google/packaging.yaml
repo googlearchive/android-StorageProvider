@@ -9,7 +9,7 @@ technologies: [Android]
 categories:   [Content]
 languages:    [Java]
 solutions:    [Mobile]
-github:       android-MyCloud
+github:       android-StorageProvider
 level:        INTERMEDIATE
 icon:         screenshots/icon-web.png
 apiRefs:

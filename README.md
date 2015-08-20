@@ -1,5 +1,5 @@
 
-Android MyCloud Sample
+Android StorageProvider Sample
 ===================================
 
 This sample shows how to implement a simple documents provider using the storage access
@@ -42,7 +42,7 @@ Support
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-MyCloud
+https://github.com/googlesamples/android-StorageProvider
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
